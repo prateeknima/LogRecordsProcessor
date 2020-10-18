@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b36109fd-cd84-4303-9a73-296e0b2854a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="116" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1j3D5nXsZwFAd3YzA8onfaYlrLT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/suisse/LogRecordsProcessor" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.suisse.LogRecordsProcessor.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java Project\LogRecordsProcessor\src\main\java\com\suisse\LogRecordsProcessor" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+      <command value="mvn package" />
+      <command value="mvn clean" />
+      <command value="mvn install" />
+      <command value="mvn spring-boot:repackage" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LogRecordsProcessorApplicationTests">
+    <configuration name="LogRecordsProcessorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suisse.LogRecordsProcessor.LogRecordsProcessorApplication" />
+      <module name="LogRecordsProcessor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suisse.LogRecordsProcessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in LogRecordsProcessor (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LogRecordsProcessor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in LogRecordsProcessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LogRecordsProcessor" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogRecordsProcessorApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LogRecordsProcessor" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suisse.LogRecordsProcessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="com.suisse.LogRecordsProcessor" />
+      <option name="MAIN_CLASS_NAME" value="com.suisse.LogRecordsProcessor.LogRecordsProcessorApplicationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.suisse.LogRecordsProcessor in LogRecordsProcessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LogRecordsProcessor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.suisse.LogRecordsProcessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.suisse.LogRecordsProcessor" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LogRecordsProcessorApplication" />
+      <item itemvalue="JUnit.com.suisse.LogRecordsProcessor in LogRecordsProcessor" />
+      <item itemvalue="JUnit.LogRecordsProcessorApplicationTests" />
+      <item itemvalue="JUnit.All in LogRecordsProcessor" />
+      <item itemvalue="JUnit.All in LogRecordsProcessor (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LogRecordsProcessorApplicationTests" />
+        <item itemvalue="JUnit.All in LogRecordsProcessor (1)" />
+        <item itemvalue="JUnit.All in LogRecordsProcessor" />
+        <item itemvalue="Application.LogRecordsProcessorApplication" />
+        <item itemvalue="JUnit.com.suisse.LogRecordsProcessor in LogRecordsProcessor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b36109fd-cd84-4303-9a73-296e0b2854a7" name="Default Changelist" comment="" />
+      <created>1603023700569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603023700569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603028636865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="50" width="1089" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603028636865" />
+    <state x="548" y="142" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1603025595581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="142" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1603025595581" />
+    <state x="65" y="-844" key="#com.intellij.ide.util.MemberChooser" timestamp="1603049692840">
+      <screen x="-700" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="65" y="-844" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-700.-1080.1920.1040@-700.-1080.1920.1040" timestamp="1603049692840" />
+    <state x="498" y="221" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603025118035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="221" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1603025118035" />
+    <state x="-10" y="-813" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603049763517">
+      <screen x="-700" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-10" y="-813" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-700.-1080.1920.1040@-700.-1080.1920.1040" timestamp="1603049763517" />
+    <state x="-15" y="-854" key="FileChooserDialogImpl" timestamp="1603039700022">
+      <screen x="-700" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-15" y="-854" key="FileChooserDialogImpl/0.0.1536.824/-700.-1080.1920.1040@-700.-1080.1920.1040" timestamp="1603039700022" />
+    <state x="548" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603026084305" />
+    <state width="1921" height="244" key="GridCell.Tab.0.bottom" timestamp="1603050782391">
+      <screen x="-700" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824/-700.-1080.1920.1040@-700.-1080.1920.1040" timestamp="1603050782391" />
+    <state width="1537" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824/-700.-1080.1920.1040@0.0.1536.824" timestamp="1603044905710" />
+    <state width="1537" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603028697992" />
+    <state width="1921" height="244" key="GridCell.Tab.0.center" timestamp="1603050782391">
+      <screen x="-700" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="244" key="GridCell.Tab.0.center/0.0.1536.824/-700.-1080.1920.1040@-700.-1080.1920.1040" timestamp="1603050782391" />
+    <state width="1537" height="168" key="GridCell.Tab.0.center/0.0.1536.824/-700.-1080.1920.1040@0.0.1536.824" timestamp="1603044905710" />
+    <state width="1537" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603028697992" />
+    <state width="1921" height="244" key="GridCell.Tab.0.left" timestamp="1603050782391">
+      <screen x="-700" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="244" key="GridCell.Tab.0.left/0.0.1536.824/-700.-1080.1920.1040@-700.-1080.1920.1040" timestamp="1603050782391" />
+    <state width="1537" height="168" key="GridCell.Tab.0.left/0.0.1536.824/-700.-1080.1920.1040@0.0.1536.824" timestamp="1603044905710" />
+    <state width="1537" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603028697992" />
+    <state width="1921" height="244" key="GridCell.Tab.0.right" timestamp="1603050782391">
+      <screen x="-700" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="244" key="GridCell.Tab.0.right/0.0.1536.824/-700.-1080.1920.1040@-700.-1080.1920.1040" timestamp="1603050782391" />
+    <state width="1537" height="168" key="GridCell.Tab.0.right/0.0.1536.824/-700.-1080.1920.1040@0.0.1536.824" timestamp="1603044905710" />
+    <state width="1537" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603028697992" />
+    <state x="-389" y="-1080" key="SettingsEditor" timestamp="1603039702581">
+      <screen x="-700" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-389" y="-1080" key="SettingsEditor/0.0.1536.824/-700.-1080.1920.1040@-700.-1080.1920.1040" timestamp="1603039702581" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/-700.-1080.1920.1040@0.0.1536.824" timestamp="1603036062780" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603028493773" />
+    <state x="-44" y="-736" key="com.intellij.ide.util.TipDialog" timestamp="1603036621728">
+      <screen x="-700" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-44" y="-736" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-700.-1080.1920.1040@-700.-1080.1920.1040" timestamp="1603036621728" />
+    <state x="-169" y="-844" width="840" height="855" key="run.anything.popup" timestamp="1603057417549">
+      <screen x="-700" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="-169" y="-844" width="840" height="855" key="run.anything.popup/0.0.1536.824/-700.-1080.1920.1040@-700.-1080.1920.1040" timestamp="1603057417549" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824/-700.-1080.1920.1040@0.0.1536.824" timestamp="1603035799436" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603028567153" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LogRecordsProcessor$All_in_LogRecordsProcessor.ic" NAME="All in LogRecordsProcessor Coverage Results" MODIFIED="1603040141687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LogRecordsProcessor$All_in_LogRecordsProcessor__1_.ic" NAME="All in LogRecordsProcessor (1) Coverage Results" MODIFIED="1603044227908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LogRecordsProcessor$LogRecordsProcessorApplicationTests.ic" NAME="LogRecordsProcessorApplicationTests Coverage Results" MODIFIED="1603049917486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.suisse.LogRecordsProcessor.*</FILTER>
+    </SUITE>
+  </component>
+</project>

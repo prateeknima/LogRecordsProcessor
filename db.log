@@ -1,0 +1,22 @@
+/*C12*/SET SCHEMA PUBLIC
+drop table if exists logs_data CASCADE 
+create table logs_data (id varchar(255) not null, alert varchar(255), duration bigint not null, host varchar(255), timestamp bigint not null, type varchar(255), primary key (id))
+DISCONNECT
+/*C13*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C14*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C15*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C16*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C17*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C18*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C19*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C20*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C21*/SET SCHEMA PUBLIC
+DISCONNECT

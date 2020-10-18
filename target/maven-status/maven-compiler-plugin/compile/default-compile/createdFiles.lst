@@ -1,0 +1,7 @@
+com\suisse\LogRecordsProcessor\model\LogsData.class
+com\suisse\LogRecordsProcessor\repository\LogsRepository.class
+com\suisse\LogRecordsProcessor\service\LogParserServiceImpl$1.class
+com\suisse\LogRecordsProcessor\dao\LogParserDAO.class
+com\suisse\LogRecordsProcessor\service\LogParserService.class
+com\suisse\LogRecordsProcessor\service\LogParserServiceImpl.class
+com\suisse\LogRecordsProcessor\LogRecordsProcessorApplication.class
